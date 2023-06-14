@@ -1,4 +1,4 @@
-<img src="lloyds-bank.png" alt="Banj Image" width="800" height="800" align="center">
+<img src="lloyds-bank.png" alt="Banj Image" width="600" height="600" align="center">
 
 Lloyds Bank StepUp Challenge
 
@@ -10,8 +10,8 @@ Task 01: Data Strategy – Customer Profiling
 4) Skewed Data Transformation: The Loan Amount and Annual Income columns were observed to be skewed. To make the data more suitable for modeling, a log transformation was applied to these columns. This transformation helps in reducing the skewness and approximating the data to a Gaussian distribution, which is commonly assumed by many machine learning algorithms.
 5) Data Visualization: Graphs and plots were created to gain insights from the data. A box plot was used to visualize the Loan Status column with respect to other variables. It was observed that customers with higher annual income were more likely to repay their loans on time. Additionally, customers with lower interest rates had a higher repayment rate compared to those with higher interest rates.
 
-<img src="Comaprison.png" alt="Banj Image" width="300" height="300" align="left">
-<img src="Intreset.png" alt="Banj Image" width="300" height="300" align="right">
+<img src="Comaprison.png" alt="Banj Image" width="500" height="500" align="left">
+<img src="Intreset.png" alt="Banj Image" width="500" height="500" align="right">
                                                                            
 By performing these steps of data preprocessing and visualization, valuable insights were gained regarding the relationship between customer attributes and loan repayment behavior. These insights can be further utilized for customer segmentation, risk assessment, and developing targeted strategies for loan management.
 
