@@ -1,4 +1,5 @@
-![image](https://github.com/ShubhamSingh-9/Lloyds-Bank/assets/111279439/238c0e57-fbbe-4fac-b95e-398a58aaaafd)
+
+<img src="![image](https://github.com/ShubhamSingh-9/Lloyds-Bank/assets/111279439/238c0e57-fbbe-4fac-b95e-398a58aaaafd)" alt="image description" width="300" height="300" align="center">
 
 
 Lloyds Bank StepUp Challenge
