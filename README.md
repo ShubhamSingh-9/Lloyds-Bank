@@ -10,6 +10,10 @@ Task 01: Data Strategy – Customer Profiling
 4) Skewed Data Transformation: The Loan Amount and Annual Income columns were observed to be skewed. To make the data more suitable for modeling, a log transformation was applied to these columns. This transformation helps in reducing the skewness and approximating the data to a Gaussian distribution, which is commonly assumed by many machine learning algorithms.
 5) Data Visualization: Graphs and plots were created to gain insights from the data. A box plot was used to visualize the Loan Status column with respect to other variables. It was observed that customers with higher annual income were more likely to repay their loans on time. Additionally, customers with lower interest rates had a higher repayment rate compared to those with higher interest rates.
 
+![image](https://github.com/ShubhamSingh-9/Lloyds-Bank/assets/111279439/b2b77076-a521-4f91-9329-161b2d81c29d)   ![image](https://github.com/ShubhamSingh-9/Lloyds-Bank/assets/111279439/5b8f42b2-d8a2-4254-afd4-b19f0b70e0f7)
+
+
+
 By performing these steps of data preprocessing and visualization, valuable insights were gained regarding the relationship between customer attributes and loan repayment behavior. These insights can be further utilized for customer segmentation, risk assessment, and developing targeted strategies for loan management.
 
 Task 02: Predictive Model Summary:
@@ -22,5 +26,8 @@ The following steps were taken to achieve this goal:
 3) Feature Selection: Only a subset of features was used as input for the models. This step reduces the dimensionality of the data and focuses on the most important features. The pandas library was used to select the relevant features from the dataset.
 4) Model Building: Three models from the sklearn library were used to build the predictive models: Random Forest, Decision Tree, and Gaussian NB. These models are suitable for classification tasks and can handle both numerical and categorical data.
 5) Model Evaluation: The accuracy metric was used to measure the performance of the models. The accuracy is the ratio of correctly predicted instances to the total number of instances. The Random Forest model achieved the highest accuracy of about 79%, indicating that it was the best model for predicting loan repayment.
+
+![image](https://github.com/ShubhamSingh-9/Lloyds-Bank/assets/111279439/43df5569-a427-46b0-a42f-65608f5a2a3f)
+
 
 These steps resulted in a predictive model that can classify customers based on their loan repayment behavior. The Random Forest model showed the best performance with a high accuracy score, suggesting its usefulness for predicting loan repayment.
